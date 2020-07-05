@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.3217671c.chunk.css",
+    "main.css": "/static/css/main.fb633f82.chunk.css",
     "main.js": "/static/js/main.7e4522ef.chunk.js",
     "main.js.map": "/static/js/main.7e4522ef.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
@@ -12,10 +12,10 @@
     "0dc568d46e59e55786cc.worker.js.LICENSE.txt": "/0dc568d46e59e55786cc.worker.js.LICENSE.txt",
     "0dc568d46e59e55786cc.worker.js.map": "/0dc568d46e59e55786cc.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dfaa0d3081973469e6162cd5ee395456.js": "/precache-manifest.dfaa0d3081973469e6162cd5ee395456.js",
+    "precache-manifest.9088bc6c1d44c053e3a1ec1fe97829b3.js": "/precache-manifest.9088bc6c1d44c053e3a1ec1fe97829b3.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.3217671c.chunk.css.map": "/static/css/main.3217671c.chunk.css.map",
+    "static/css/main.fb633f82.chunk.css.map": "/static/css/main.fb633f82.chunk.css.map",
     "static/js/2.aa27650a.chunk.js.LICENSE.txt": "/static/js/2.aa27650a.chunk.js.LICENSE.txt",
     "static/media/Alamo.JPG": "/static/media/Alamo.75cbef1e.JPG",
     "static/media/Cora_Resume-1Jul2020.pdf": "/static/media/Cora_Resume-1Jul2020.f95347a5.pdf",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.7c0ae09a.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.aa27650a.chunk.js",
-    "static/css/main.3217671c.chunk.css",
+    "static/css/main.fb633f82.chunk.css",
     "static/js/main.7e4522ef.chunk.js"
   ]
 }
