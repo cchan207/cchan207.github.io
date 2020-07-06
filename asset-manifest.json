@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1f54aa3.chunk.css",
-    "main.js": "/static/js/main.f2f8ed4f.chunk.js",
-    "main.js.map": "/static/js/main.f2f8ed4f.chunk.js.map",
+    "main.css": "/static/css/main.84720f06.chunk.css",
+    "main.js": "/static/js/main.3d1bfd70.chunk.js",
+    "main.js.map": "/static/js/main.3d1bfd70.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7c0ae09a.js",
     "runtime-main.js.map": "/static/js/runtime-main.7c0ae09a.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9b18ea3b.chunk.js": "/static/js/2.9b18ea3b.chunk.js",
-    "static/js/2.9b18ea3b.chunk.js.map": "/static/js/2.9b18ea3b.chunk.js.map",
+    "static/js/2.af5a4550.chunk.js": "/static/js/2.af5a4550.chunk.js",
+    "static/js/2.af5a4550.chunk.js.map": "/static/js/2.af5a4550.chunk.js.map",
     "0dc568d46e59e55786cc.worker.js": "/0dc568d46e59e55786cc.worker.js",
     "0dc568d46e59e55786cc.worker.js.LICENSE.txt": "/0dc568d46e59e55786cc.worker.js.LICENSE.txt",
     "0dc568d46e59e55786cc.worker.js.map": "/0dc568d46e59e55786cc.worker.js.map",
     "index.html": "/index.html",
-    "precache-manifest.dd5da8815010b4c6cb657ef7feaac700.js": "/precache-manifest.dd5da8815010b4c6cb657ef7feaac700.js",
+    "precache-manifest.f60f38bc8786d979c9cb143401cccd75.js": "/precache-manifest.f60f38bc8786d979c9cb143401cccd75.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.d1f54aa3.chunk.css.map": "/static/css/main.d1f54aa3.chunk.css.map",
-    "static/js/2.9b18ea3b.chunk.js.LICENSE.txt": "/static/js/2.9b18ea3b.chunk.js.LICENSE.txt",
+    "static/css/main.84720f06.chunk.css.map": "/static/css/main.84720f06.chunk.css.map",
+    "static/js/2.af5a4550.chunk.js.LICENSE.txt": "/static/js/2.af5a4550.chunk.js.LICENSE.txt",
     "static/media/Alamo.JPG": "/static/media/Alamo.75cbef1e.JPG",
     "static/media/Cora_Resume-1Jul2020.pdf": "/static/media/Cora_Resume-1Jul2020.f95347a5.pdf",
+    "static/media/Headshot.JPG": "/static/media/Headshot.ed3fcb06.JPG",
     "static/media/Streets.JPG": "/static/media/Streets.9505a1b2.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.7c0ae09a.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9b18ea3b.chunk.js",
-    "static/css/main.d1f54aa3.chunk.css",
-    "static/js/main.f2f8ed4f.chunk.js"
+    "static/js/2.af5a4550.chunk.js",
+    "static/css/main.84720f06.chunk.css",
+    "static/js/main.3d1bfd70.chunk.js"
   ]
 }
